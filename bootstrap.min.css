@@ -1,0 +1,6 @@
+.text-primary {
+    color: #FB5B21;
+}
+.text-primary {
+    color: var(--bs-orange);
+}
